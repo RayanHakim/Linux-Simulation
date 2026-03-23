@@ -1,7 +1,3 @@
-Siap, Rayan! Ini adalah README.md versi terbaru yang sudah disesuaikan dengan fitur GUI (Tkinter), sistem Auto-Save/Load, dan struktur Modular yang kamu buat.
-
-Tata letaknya dibuat per poin agar sangat berkelas saat dipajang di GitHub atau portofolio kamu.
-
 🐧 Linux Terminal Simulator: Interactive GUI Sandbox
 Linux Terminal Simulator adalah aplikasi desktop berbasis Python yang mereplikasi antarmuka dan logika shell Linux dalam lingkungan virtual yang aman. Proyek ini menggabungkan struktur data tingkat lanjut (N-ary Tree) dengan antarmuka grafis (GUI) untuk memberikan pengalaman belajar navigasi terminal yang interaktif tanpa risiko merusak sistem operasi asli.
 
